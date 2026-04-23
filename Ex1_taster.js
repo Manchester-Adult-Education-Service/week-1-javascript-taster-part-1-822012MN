@@ -36,6 +36,10 @@ console.log("-------------------------------------------");
 // console.log("I love " + food);
 
 // Write your code below:
+console.log("Welcome to Javascript!");
+let user_name = "Monica";
+console.log("Hello " + user_name);
+console.log(`Hello $ {user_name}`);
 
 
 
